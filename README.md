@@ -29,7 +29,7 @@ This project implements a real-time Wi-Fi network scanner using Python, customtk
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/WiFiScanner.git
+   git clone https://github.com/mustaqimdhada/WiFiScanner.git
    
    ```
 2. Navigate to the project folder:
@@ -50,7 +50,7 @@ This project implements a real-time Wi-Fi network scanner using Python, customtk
 ### 🖥️ Launch the Scanner
 
 ```
-python wifi_scanner.py
+python wifi.py
 ```
 
 ### 🧭 Inside the GUI:
@@ -84,5 +84,8 @@ Identifies the following security types:
 📡 Signal: -42 dBm — Excellent
 ```
 ## 📸 Screenshots
+  <img src="https://github.com/user-attachments/assets/780c18d8-52ff-45b6-988d-f0e482008c8a" alt="Chat Interface" width="600"/>
+  <img src="https://github.com/user-attachments/assets/14f714db-674e-4e94-8e5c-fcdcf7010345" alt="Emoji Picker" width="600"/>
+  <img src="https://github.com/user-attachments/assets/f429cd7f-3336-4996-98f6-29b3364ddece" alt="Random Password Generation" width="600"/>
 
 ## 🎥 Demo Video
