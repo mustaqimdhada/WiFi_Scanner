@@ -89,3 +89,5 @@ Identifies the following security types:
   <img src="https://github.com/user-attachments/assets/f429cd7f-3336-4996-98f6-29b3364ddece" alt="Random Password Generation" width="600"/>
 
 ## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/f2d1fb19-3cb7-40ef-adf7-706a736ffd47
